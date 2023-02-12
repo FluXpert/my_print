@@ -66,7 +66,7 @@ class YourScreen extends StatelessWidget {
 
 </td>
 <td>
-<img  src="https://raw.githubusercontent.com/FluXpert/flutter_trials_project/master/assets/Screenshot%202023-02-12%20at%209.33.01%20PM.png?token=GHSAT0AAAAAAB54FVCT5LLZLUTZ7LLMLJXGY7JEEQA"  alt="MY PRINT">
+<img  src="https://raw.githubusercontent.com/FluXpert/flutter_trials_project/master/assets/Screenshot%202023-02-12%20at%209.33.01%20PM.png"  alt="MY PRINT">
 </td>
 </tr>
 </table>
