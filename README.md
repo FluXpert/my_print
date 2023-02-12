@@ -14,7 +14,7 @@ This is designed ```debugPrint("Data...")``` function..
 1. Add the latest version of package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  fancy_containers: ^0.0.6
+  fancy_containers: ^0.0.7
 ```
 2. Import the package and use it in your Flutter App.
 ```dart

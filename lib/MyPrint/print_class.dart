@@ -10,7 +10,8 @@ myPrint({
   ///     data: "Variable or anything", // required, dynamic
   ///     type: "LoginButtonPress", // optional, String, type
   ///     );
+  ///
   debugPrint(
-    " [ DEBUG PRINT ] [ $screen ] ${type!.isEmpty ? "" : " [ $type ] "} $data",
+    " [ DEBUG PRINT ] [ $screen ] ${type == null ? "" : " [ $type ] "} $data",
   );
 }
