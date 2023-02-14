@@ -1,10 +1,4 @@
-## 0.1.0
+## 0.1.1
 
 A function myPrint to use debug print in a good manner.
-1. Image added
-2. Description Added
-3. Example Updated
-5. Readme Updated
-6. Version Updated
-7. Pubspec Updated
-8. License Updated
+Fixes and Updates

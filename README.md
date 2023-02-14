@@ -26,7 +26,7 @@ myPrint(
 1. Add the latest version of package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  my_print: ^0.1.0
+  my_print: ^0.1.1
 ```
 2. Import the package and use it in your Flutter App.
 ```dart
