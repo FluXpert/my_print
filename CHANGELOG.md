@@ -1,4 +1,4 @@
-## 0.0.9
+## 0.1.0
 
 A function myPrint to use debug print in a good manner.
 1. Image added

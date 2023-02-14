@@ -9,6 +9,16 @@ We mostly have more than 100 lines of prints in console in which we mostly get c
 ### Say No To Use ```print()``` Function
 No more ```print()``` function in your code. Use ```myPrint()``` function instead.
 
+## Usage
+```
+import 'package:my_print/my_print.dart';
+myPrint(
+  screen: "YourScreen",
+  data: "Container Button Pressed",
+  type: "Tap Check",
+);
+```
+
 ## Beautiful Console Output
 <img  src="https://raw.githubusercontent.com/FluXpert/flutter_trials_project/master/assets/Screenshot%202023-02-12%20at%209.33.01%20PM.png"  alt="MY PRINT">
 
@@ -16,7 +26,7 @@ No more ```print()``` function in your code. Use ```myPrint()``` function instea
 1. Add the latest version of package to your pubspec.yaml (and run`dart pub get`):
 ```yaml
 dependencies:
-  my_print: ^0.0.9
+  my_print: ^0.1.0
 ```
 2. Import the package and use it in your Flutter App.
 ```dart

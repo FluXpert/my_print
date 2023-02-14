@@ -1,6 +1,6 @@
 name: my_print
 description: A Package will helps you to use DEBUG PRINT in a good Manner.
-version: 0.0.9
+version: 0.1.0
 homepage: https://github.com/FluXpert/my_print.git
 # dart pub publish
 environment:
